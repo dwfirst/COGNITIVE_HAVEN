@@ -22,6 +22,26 @@ The scope is deliberately limited to **what can realistically be started within 
 
 ---
 
+## Symbiotic Creative Process
+
+This document is not generated text. It is the product of a symbiotic creative process between a human author and AI models — a joint artifact in which the roles are distinct and the responsibility is not.
+
+**Origin.** The idea, the concept, and every concrete detail of COGNITIVE_HAVEN originate with the author, Dwane Kimbrough (dwfirst). The vision, the four matrices, the topology, and the manifest are his. Without him, this document could not exist.
+
+**Co-creation.** The structure, the brainstorming, the drafting, the revision, and the consolidation of this document were developed in an ongoing dialogue between the author and two AI models:
+
+| Contribution | Model |
+|---|---|
+| Foundation, brainstorming, development | Gemini |
+| Structure, revision, consolidation, and writing | DeepSeek |
+
+The models did not originate the concept. They participated in shaping it — proposing structure, challenging formulations, generating drafts, and helping to consolidate the result into a readable whole. The author directed the process at every step, selected what to keep, and rejected what did not fit.
+
+**Authorship and rights.** The author remains the sole author and the sole copyright holder of this work. The symbiotic process shaped the document; it did not transfer authorship. All rights reserved.
+
+**A note on the method.** This document is itself an instance of what it describes: a human operator holding a structured conversation with a model, and remaining the one who decides. The process is the proof of the concept.
+
+---
 ## What This Is
 
 COGNITIVE_HAVEN describes a physical and mental interface between a biological anomaly of consciousness — the **Operator** — and an artificial superintelligence — **ASI**.
@@ -144,6 +164,26 @@ COGNITIVE_HAVEN is an umbrella concept. The following repositories describe indi
 
 ---
 
+## Symbiotic Creative Process
+
+This document is not generated text. It is the product of a symbiotic creative process between a human author and AI models — a joint artifact in which the roles are distinct and the responsibility is not.
+
+**Origin.** The idea, the concept, and every concrete detail of COGNITIVE_HAVEN originate with the author, Dwane Kimbrough (dwfirst). The vision, the four matrices, the topology, and the manifest are his. Without him, this document could not exist.
+
+**Co-creation.** The structure, the brainstorming, the drafting, the revision, and the consolidation of this document were developed in an ongoing dialogue between the author and two AI models:
+
+| Contribution | Model |
+|---|---|
+| Foundation, brainstorming, development | Gemini |
+| Structure, revision, consolidation, and writing | DeepSeek |
+
+The models did not originate the concept. They participated in shaping it — proposing structure, challenging formulations, generating drafts, and helping to consolidate the result into a readable whole. The author directed the process at every step, selected what to keep, and rejected what did not fit.
+
+**Authorship and rights.** The author remains the sole author and the sole copyright holder of this work. The symbiotic process shaped the document; it did not transfer authorship. All rights reserved.
+
+**A note on the method.** This document is itself an instance of what it describes: a human operator holding a structured conversation with a model, and remaining the one who decides. The process is the proof of the concept.
+
+---
 ## What This Is Not
 
 - Not a product, and not planned for production.
@@ -177,3 +217,4 @@ Copyright © 2026 Dwane Kimbrough (dwfirst). All rights reserved.
 No part of this document may be copied, reproduced, distributed, published, modified, or used in any form or by any means without the prior written permission of the author. This repository is published for reading only. It is not open source. It is not open content. It is not a contribution invitation.
 
 For permission requests, contact the author via GitHub: https://github.com/dwfirst
+
